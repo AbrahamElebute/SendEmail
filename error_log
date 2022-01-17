@@ -1,0 +1,6 @@
+[15-Jan-2022 23:29:15 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/qlipytni/public_html/sendEmail.php on line 5
+[15-Jan-2022 23:45:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/qlipytni/public_html/PHPMailer/PHPMailerAutoload.php on line 45
+[15-Jan-2022 23:46:09 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/qlipytni/public_html/PHPMailer/PHPMailerAutoload.php on line 45
+[15-Jan-2022 23:46:23 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/qlipytni/public_html/PHPMailer/PHPMailerAutoload.php on line 45
+[15-Jan-2022 23:48:59 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/qlipytni/public_html/PHPMailer/PHPMailerAutoload.php on line 45
+[15-Jan-2022 23:49:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/qlipytni/public_html/PHPMailer/PHPMailerAutoload.php on line 45
